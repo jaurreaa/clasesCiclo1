@@ -31,7 +31,7 @@ from interfaz import finalizacionExitosa as fe
 # producto3 = 350000
 # producto4 = 4000000
 
-#Interacción
+#-----------------------Interacción
 # print("-------------------------------------------")
 # print("Bienvenido: Aplicación Cálculo de Impuestos")
 # print("-------------------------------------------")
@@ -42,11 +42,11 @@ bv()
 # producto4 = float(input('Ingrese el valor del cuarto producto: '))
 producto1,producto2,producto3,producto4 = r4p()
 
-#Lógica
+#-------------------------Lógica
 #precioRealCompra = pfv(producto1,producto2,producto3,producto4)
 precioRealCompra = pfv2(producto1,producto2,producto3,producto4)
 
-#Interacción
+#------------------------Interacción
 #print("Precio final de compra:",precioRealCompra)
 print(rp(precioRealCompra))
 # print("-------------------------------------------")

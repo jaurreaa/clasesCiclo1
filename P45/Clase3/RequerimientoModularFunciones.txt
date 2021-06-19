@@ -13,3 +13,4 @@ patrimonio, pasivos y activos, cada uno con un impuesto
 de 5%, 15% y 30%. Retornar el pago total por concepto de impuestos.
 
 - Reto publicado en plataforma (iMaster -> foro)
+

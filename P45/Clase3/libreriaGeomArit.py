@@ -22,7 +22,6 @@ def promedio4(valor1=0,valor2=0,valor3=0,valor4=0):
     return promedio
 
 def suma3(a=0,b=0,c=0):
-
     print("Contenido de a:",a)
     print("Contenido de b:",b)
     print("Contenido de c:",c)
